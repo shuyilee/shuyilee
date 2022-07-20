@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shuyilee, a software engineering recent graduate.
-- 👀 I’m interested in machine learning, data analytics and UI/UX design. 
-- 🌱 I’m currently learning React and Vue.JS
+- 👋 Hi, I’m @shuyilee, a technology consultant and software engineering graduate.
+- 👀 I’m passionate in machine learning, product management and UI/UX design. 
+- 🌱 I’m currently learning Rust
 - 📫 Reach me through shuyilee2@gmail.com
 
 <!---
